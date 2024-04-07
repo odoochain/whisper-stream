@@ -12,7 +12,7 @@ Currently only streaming of response is supported. If you need also streaming of
 ## Installation
 
 ```bash
-pip install git+https://github.com/gkorepanov/whisper-stream.git
+pip install git+https://github.com/odoochain/whisper-stream.git
 ```
 
 
